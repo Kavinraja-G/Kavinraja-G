@@ -4,6 +4,7 @@
 
 ### Certifications
 [![Microsoft Certified: Azure Fundamentals](https://raw.githubusercontent.com/Kavinraja-G/Kavinraja-G/master/Certs/az-fmts.png)](https://www.youracclaim.com/badges/e4a1b664-5052-4752-b560-ec9d7b8e5ecb/public_url)
+[![Microsoft Certified: Azure Administrator Associate](https://raw.githubusercontent.com/Kavinraja-G/Kavinraja-G/master/Certs/az-admin.png)](https://www.youracclaim.com/badges/5a25f949-fa09-4374-9c62-5cc632611220/public_url)
 
 
 ### About me 😎 
