@@ -2,6 +2,9 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kavinraja-G)
 [![Github](https://img.shields.io/github/followers/Kavinraja-G?label=Follow&style=social)](https://github.com/Kavinraja-G)
 
+### Certifications
+[![Microsoft Certified: Azure Fundamentals](https://raw.githubusercontent.com/Kavinraja-G/Kavinraja-G/master/Certs/az-fmts.png)](https://www.youracclaim.com/badges/e4a1b664-5052-4752-b560-ec9d7b8e5ecb/public_url)
+
 
 ### About me 😎 
 - 🔭 I’m currently working on Personal projects
